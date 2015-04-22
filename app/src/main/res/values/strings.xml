@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PurchaseTextView">Purchase Price:</string>
+    <string name="down_payment">Down Payment:</string>
+    <string name="interest_rate">Interest Rate:</string>
+    <string name="custom_duration">Custom Dur. (Yrs):</string>
+    <string name="ten_years">10 Years</string>
+    <string name="twenty_years">20 Years</string>
+    <string name="thirty_years">30 Years</string>
+    <string name="custom_years">40 Years</string>
+</resources>
